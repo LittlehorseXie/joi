@@ -1,0 +1,9 @@
+.kup-tabs__tab {
+	margin-right: 10px;
+}
+.kup-tabs__tab[data-selected="true"] {
+	font-weight: 600;
+}
+.kup-tabs__tab[data-disabled="true"] {
+	color: gray;
+}
